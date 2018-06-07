@@ -21,7 +21,12 @@
   },
   "homepage": "https://github.com/Meituan-Dianping/mpvue/",
   "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-generator": "^6.26.1",
+    "babel-template": "^6.26.0",
+    "babel-types": "^6.26.0",
+    "de-indent": "^1.0.2",
     "he": "^1.1.0",
-    "de-indent": "^1.0.2"
+    "prettier": "^1.13.4"
   }
 }
